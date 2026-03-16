@@ -3,7 +3,7 @@
 A production-quality dashboard for monitoring and analyzing UK national wind power generation and forecast accuracy. Built with Next.js, TypeScript, and Recharts.
 
 ## 🚀 Deployment
-Live Demo: [https://wind-forecast-app.vercel.app](https://wind-forecast-app.vercel.app) (Replace with actually deployed URL)
+Live Demo: [https://wind-forecast-app.vercel.app](https://wind-power-three.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js 15 (App Router), Tailwind CSS v4, Lucide Icons
